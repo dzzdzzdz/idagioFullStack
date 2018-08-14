@@ -1,6 +1,7 @@
 # idagioFullStack
 
 This is the Full Stack version of track list editing I attempted over the weekend (2 days).
+### Usage
 To run the client side, use npm start and open your browser on localhost:3000
 To run the server side, also use npm start. The express server will run on localhost:3001.
 
